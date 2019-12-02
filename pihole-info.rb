@@ -1,4 +1,4 @@
-class pihole-info < formula
+class piholeinfo < formula
     desc "A simple script that displays your pi.hole stats in terminal"
     homepage "https://github.com/mnk400/pihole-info"
     url "https://github.com/mnk400/pihole-info/blob/master/dist/pihole-info/pihole-info"
