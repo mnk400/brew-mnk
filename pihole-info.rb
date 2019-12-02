@@ -7,6 +7,6 @@ class piholeinfo < formula
 
 
     def install
-        bin.install "iphole.info"
+        bin.install "piholeinfo"
     end
 end        
